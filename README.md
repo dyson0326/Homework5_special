@@ -31,6 +31,7 @@
 
 その内のリクエストに関する追加情報やクライアント自身の情報を付与するためのヘッダー
 ![image](https://github.com/dyson0326/Homework5_special/assets/126320306/06f1cf4f-1b0a-4036-8f19-49fc7f364868)
+
 [引用元画像URL](https://rainbow-engine.com/http-request-structure/)
 
 # リクエストボディとは
@@ -39,7 +40,10 @@
 
 # レスポンスヘッダーとは
 サーバー側がクライアント側に送るレスポンスに関する追加情報
+
 ![image](https://github.com/dyson0326/Homework5_special/assets/126320306/1deabf52-5bb6-4454-a281-7720ec188285)
+
 [引用元画像URL](https://wa3.i-3-i.info/word1847.html)
+
 # レスポンスボディとは
 サーバー側がクライアント側に送るデータの本体
